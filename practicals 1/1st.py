@@ -1,0 +1,18 @@
+first = float(input("Enter The First Number -- >> "))
+second = float(input("Enter The Second Number -- >> "))
+
+
+print("\n---- Addition ----")
+print("     [[ ",first + second," ]]\n")
+print("---- subtraction ----")
+print("     [[ ",first - second," ]]\n")
+print("---- Multiplication ----")
+print("     [[ ",first * second," ]]\n")
+print("---- Division ----")
+print("     [[ ",first / second," ]]\n")
+print("---- Modulus ----")
+print("     [[ ",first % second," ]]\n")
+print("---- Exponentiation ----")
+print("     [[ ",first ** second," ]]\n")
+print("---- Floor Division ----")
+print("     [[ ",first // second," ]]\n")
